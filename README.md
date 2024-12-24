@@ -1,4 +1,4 @@
-# sylveon-nfc-keychain
+# Sylveon NFC Keychain
 Participation in hack club's #asylum ysws! Featuring a 3D printable Sylveon keychain. Stop when print height is 0.8mm tall to insert 1 inch NFC sticker.
 
 <img src="https://github.com/user-attachments/assets/39549935-f7c1-49da-ae8e-e2cafec07645" height="400" />
